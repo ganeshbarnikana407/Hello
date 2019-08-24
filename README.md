@@ -1,6 +1,7 @@
-# Hello
-just another repository
-jfdskjflsdkjflaksjflkdsfdfhhfdhfdsjhfhjdsfkdshfiuhsdjffsdkdfkf
-djfljdsklfjas
-jsdlkfjldskjfdsklfj
-jfkljdslkfjsdlkfj
+class Test
+{
+  public static void main String[] args()
+  {
+    System.out.println("Hello");
+  }
+ }
