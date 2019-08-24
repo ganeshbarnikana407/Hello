@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class HelloController {
 	@RequestMapping("/hello")
-	public String redirect()
+			public String redirect()
 	{
 		return "viewpage";
 	}
